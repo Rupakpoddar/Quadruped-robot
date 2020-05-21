@@ -1,6 +1,8 @@
 # Quadruped-robot
 Here you will find all the files required for this project
 
+Watch the video at: https://youtu.be/Up0q0preoIs
+
 Download the 3D printer files from-
 https://www.thingiverse.com/thing:2732957
 
