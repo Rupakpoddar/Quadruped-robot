@@ -1,5 +1,5 @@
 # Quadruped-robot
-Here you will find all the files required for this project
+Here you will find all the files required for this project.
 
 Watch the video at: https://youtu.be/Up0q0preoIs
 
